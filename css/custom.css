@@ -1,0 +1,14 @@
+.txt_white{
+    color: #FFF !important;
+}
+.popover{
+    width: 100% !important;
+}
+.popover-title{
+    margin: 0 !important;
+    padding: 10px 14px 0 !important;
+}
+
+.popover-title::after {
+    margin: 10px 0 5px !important;
+}
